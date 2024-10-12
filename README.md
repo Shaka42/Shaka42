@@ -1,3 +1,7 @@
+[![An image of @shaka42's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaka42)](https://holopin.io/@shaka42)
+
+
+
 - 👋 Hi, I’m @Shaka42
 - 👀 I’m interested in Machine learning and embedded systems
 - 🌱 I’m currently learning Machine learning
