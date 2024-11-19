@@ -6,7 +6,7 @@
 - 👀 I’m interested in Machine learning and embedded systems
 - 🌱 I’m currently learning Machine learning
 - 💻I’m looking to collaborate on Python data analysis or machine learning related projects
-- 📫 How to reach me  through +256781826818 or hshaka2004@gmail.com
+- 📫 How to reach me  through hshaka2004@gmail.com
 
 <!---
 Shaka42/Shaka42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
